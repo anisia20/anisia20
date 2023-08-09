@@ -1,6 +1,9 @@
-[![anisia20's GitHub stats](https://github-readme-stats-d9ozp535q-anisia20.vercel.app/api?username=anisia20&show_icons=true&count_private=true)](https://github.com/arribass/github-readme-stats)
-
-[![anisia20 Top Langs](https://github-readme-stats-d9ozp535q-anisia20.vercel.app/api/top-langs/?username=anisia20)](https://github.com/arribass/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-nu-rust.vercel.app/api?username=anisia20" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-nu-rust.vercel.app/api/top-langs?username=anisia20&layout=compact&langs_count=8&card_width=320" />
+</a>
 <!--
 **anisia20/anisia20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
