@@ -16,6 +16,11 @@
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB.svg?&style=for-the-badge&logo=Quarkus&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-1EB4D4.svg?&style=for-the-badge&logo=Keycloak&logoColor=white)
+![Hasura](https://img.shields.io/badge/Hasura-1EB4D4.svg?&style=for-the-badge&logo=Hasura&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Nextjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
 
