@@ -1,5 +1,4 @@
 #
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Java&logoColor=CC6699"/>
 #
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats-lime-tau-56.vercel.app/api?username=anisia20&exclude_repo=polamfe" />
