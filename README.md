@@ -24,7 +24,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
 ---
-## 코딩테스트
+## 📝 코딩테스트
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anisia20)](https://solved.ac/anisia20/)
 
 <!--
