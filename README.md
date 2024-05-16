@@ -29,7 +29,7 @@
 
 ---
 ## 👔 프로젝트
-- 신세계 시코르 Platform Architect PL
+- 신세계 시코르 Platform Architect
 - LGU RCS 중계MaaPGW 구축
 - 한국산업인력공단 PG 유지보수
 - 신한금융투자 SMMS 모니터링 개발
