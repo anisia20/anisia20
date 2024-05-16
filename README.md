@@ -24,6 +24,10 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
 ---
+## 📝 백준
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anisia20)](https://solved.ac/anisia20/)
+
+---
 ## 👔 프로젝트
 - 신세계 시코르 Platform Architect PL
 - LGU RCS 중계MaaPGW 구축
@@ -33,10 +37,6 @@
 - 현대백화점 메세징 이중화 분배기 및 통계 페이지 개발
 - 금결원 출금이체 변경/해지 프로젝트 
 - LGCNS VAN B2B 배치 펌뱅킹 유지보수
-
----
-## 📝 백준
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anisia20)](https://solved.ac/anisia20/)
 
 <!--
 **anisia20/anisia20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
