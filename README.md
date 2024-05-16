@@ -37,6 +37,7 @@
 - 현대백화점 메세징 이중화 분배기 및 통계 페이지 개발
 - 금결원 출금이체 변경/해지 프로젝트 
 - LGCNS VAN B2B 배치 펌뱅킹 유지보수
+- KT GFC 과금솔루션 교환장비 유지보수
 
 <!--
 **anisia20/anisia20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
