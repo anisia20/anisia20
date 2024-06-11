@@ -29,6 +29,7 @@
 
 ---
 ## 👔 프로젝트
+- 종합소득세 Platform 세이브텍스 다이렉트 개발
 - 신세계 시코르 Platform Architect
 - LGU RCS 중계MaaPGW 구축
 - 한국산업인력공단 PG 유지보수
