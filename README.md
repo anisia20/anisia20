@@ -40,6 +40,11 @@
 - LGCNS VAN B2B 배치 펌뱅킹 유지보수
 - KT GFC 과금솔루션 교환장비 유지보수
 
+## 🏢 Company
+- KT engineering (Center Leader)
+- E-commerce Tech (Architect, Developer, PM)
+- Megazone (Platform Architect, PL)
+- Unitblack (PL)
 <!--
 **anisia20/anisia20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
