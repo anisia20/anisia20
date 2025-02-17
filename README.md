@@ -24,10 +24,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
 ---
-## 📝 백준
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anisia20)](https://solved.ac/anisia20/)
-
----
 ## 👔 경력 요약
 
 ### 종합소득세 플랫폼 신규 구축 (2024.01 ~ 2024.06, 약 6개월)
@@ -119,10 +115,15 @@
 **- 기술:** Java, Pro-C, Socket  
 
 ## 🏢 Company
-- KT engineering (Center Leader)
+- KT 엔지니어링 (PL)
 - E-commerce Tech (Architect, Developer, PM)
 - Megazone (Platform Architect, PL)
 - Unitblack (PL)
+
+---
+## 📝 백준
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anisia20)](https://solved.ac/anisia20/)
+
 <!--
 **anisia20/anisia20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
