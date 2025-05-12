@@ -119,7 +119,7 @@
 - E-commerce Tech (Architect, Developer, PM)
 - Megazone (Platform Architect, PL)
 - Unitblack (PL)
-- 지티이노비젼
+- GT이노비젼
 
 ---
 ## 📝 백준
