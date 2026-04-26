@@ -10,21 +10,22 @@
 </a>
 
 ---
-## 💻 Skills<p align="center">
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="58" height="58" />
-  <br />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="redux" width="58" height="58" />
+## 💻 Skills
+<p align="center">
+  <a href="#"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="58" height="58" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="58" height="58" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="58" height="58" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="58" height="58" /></a>
+  <br>
+  <a href="#"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="58" height="58" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="58" height="58" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="58" height="58" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="58" height="58" /></a>
 </p>
 
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB.svg?&style=for-the-badge&logo=Quarkus&logoColor=white)
