@@ -11,22 +11,20 @@
 
 ---
 ## 💻 Skills
-<p align="center">
-  <a href="#"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="58" height="58" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="58" height="58" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="58" height="58" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="58" height="58" /></a>
-  <br>
-  <a href="#"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="58" height="58" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="58" height="58" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="58" height="58" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" /></a>
-  <a href="#"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="58" height="58" /></a>
-</p>
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB.svg?&style=for-the-badge&logo=Quarkus&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
