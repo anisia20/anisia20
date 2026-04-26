@@ -10,9 +10,7 @@
 </a>
 
 ---
-## 💻 Skills
-
-<h2>Tech Stack</h2>
+## 💻 Tech Stack
 
 <table border="0">
   <tr>
