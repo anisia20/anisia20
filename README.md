@@ -170,7 +170,7 @@
 
 ---
 
-### LGCNS VAN 실시간 & 배치 펌뱅킹 통신 프로토콜 개선 (2014.03 ~ 2014.08, 약 6개월)
+### LGCNS VAN 실시간 & 배치 펌뱅킹 통신 프로토콜 개선 (2014.03 ~ 2014.08, 6개월)
 **- 성과:** 이기종 OS(Linux, UNIX) 환경 클라이언트 통합으로 운영 비용 50% 절감  
 **- 역할:**  
   - 기존 Pro-C 기반 시스템을 Java로 전환하여 공통 클라이언트 모듈 제공  
@@ -180,10 +180,11 @@
 
 ## 🏢 Company
 - KT 엔지니어링 (PL)
-- E-commerce Tech (Architect, Developer, PM)
 - Megazone (Platform Architect, PL)
+- GT이노비젼 (Architect, PM)
+- E-commerce Tech (Architect, Developer, PM)
 - Unitblack (PL)
-- GT이노비젼
+
 
 ---
 ## 📝 백준
