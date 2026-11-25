@@ -72,11 +72,11 @@
 ---
 ## 👔 경력 요약
 
-### 우리은행 EOS 대응을 위한 모바일웹 시스템 재구축 (2026.05 ~ 현재)
+### 우리은행 EOS 대응을 위한 모바일웹 시스템 재구축 (2026.05 ~ 2026.12 약 8개월)
 **- 성과:** BXM전환 배포환경 개선, JDK, Next 버전 최적화  
 **- 역할:**
-  - AA : OpenShift 환경 구축, 컨테이너 설계, 개발환경 및 배포환경 구축, 네트워크 구성 설계 
-**- 기술:** OpenShift(Kubernetes), ArgoCD, BXM, ReactJS, NextJS, Java, Oracle, Docker, Bxm, Spring Boot
+  - AA : OpenShift 환경 구축, 컨테이너 설계, 개발환경 구축, Jenkins 구축 및 Groovy Pipeline 구성, 네트워크 구성 설계 
+**- 기술:** OpenShift(Kubernetes), ArgoCD, BXM, ReactJS, NextJS, Java, Oracle, Docker, Spring Boot, Jenkins
 
 ---
 
