@@ -37,26 +37,26 @@
 </td>
   </tr>
   <tr>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="58" height="58" alt="restapi" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="58" height="58" alt="django" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="58" height="58" alt="github" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" alt="javascript" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" alt="react" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="58" height="58" alt="redux" />
-    </td>
-    <td></td>
-  </tr>
+  <td align="center" width="70">
+    <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/restapi-icon.svg" width="58" height="58" alt="restapi" />
+  </td>
+  <td align="center" width="70">
+    <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/django-icon.svg" width="58" height="58" alt="django" />
+  </td>
+  <td align="center" width="70">
+    <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/github-icon.svg" width="58" height="58" alt="github" />
+  </td>
+  <td align="center" width="70">
+    <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/js-icon.svg" width="58" height="58" alt="javascript" />
+  </td>
+  <td align="center" width="70">
+    <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/react-icon.svg" width="58" height="58" alt="react" />
+  </td>
+  <td align="center" width="70">
+    <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/redux-icon.svg" width="58" height="58" alt="redux" />
+  </td>
+  <td></td>
+</tr>
 </table>
 
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB.svg?&style=for-the-badge&logo=Quarkus&logoColor=white)
