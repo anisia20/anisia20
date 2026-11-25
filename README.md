@@ -15,26 +15,26 @@
 <table border="0">
   <tr>
     <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="58" height="58" alt="kubernetes" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" alt="docker" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" alt="python" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="mysql" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="58" height="58" alt="nginx" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="58" height="58" alt="java" />
-    </td>
-    <td align="center" width="70">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="58" height="58" alt="aws" />
-    </td>
+  <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/kubernetes-icon.svg" width="58" height="58" alt="kubernetes" />
+</td>
+<td align="center" width="70">
+  <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/docker-icon.svg" width="58" height="58" alt="docker" />
+</td>
+<td align="center" width="70">
+  <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/python-icon.svg" width="58" height="58" alt="python" />
+</td>
+<td align="center" width="70">
+  <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/mysql-icon.svg" width="58" height="58" alt="mysql" />
+</td>
+<td align="center" width="70">
+  <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/nginx-icon.svg" width="58" height="58" alt="nginx" />
+</td>
+<td align="center" width="70">
+  <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/java-icon.svg" width="58" height="58" alt="java" />
+</td>
+<td align="center" width="70">
+  <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/master/static/aws-icon.svg" width="58" height="58" alt="aws" />
+</td>
   </tr>
   <tr>
     <td align="center" width="70">
